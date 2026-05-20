@@ -1,0 +1,11 @@
+# Caminhos para as pastas de imagens
+train: /content/drive/MyDrive/FIAP_IA/Computer_Vision/dataset_farmtech/images/train
+val: /content/drive/MyDrive/FIAP_IA/Computer_Vision/dataset_farmtech/images/val
+
+# Numero de classes
+nc: 2
+
+# Nomes das classes
+names: 
+    0: 'shih_tzu'
+    1: 'nissan_kicks'
